@@ -17,7 +17,7 @@ Um algoritmo de ordenação é um algoritmo composto de uma série de instruçõ
     A saída está em ordem não decrescente.
     A saída é uma permutação (reordenação) da entrada.
 	
-<img src="https://github.com/wesleyvicen/AlgoritmosDeOrdenacao/blob/master/imgs/sort.gif">
+<img src="https://github.com/wesleyvicen/AlgoritmosDeOrdenacao/blob/master/imgs/sort-ptbr.gif">
 
 
 ```java
