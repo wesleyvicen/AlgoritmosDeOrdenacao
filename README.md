@@ -1,12 +1,11 @@
 ## Algoritmos de Ordenação
 Este código ajuda você a entender os diferentes algoritmos de classificação. Os algoritmos de ordenação descritos neste código são:
 
-Bubble Sort<br>
-Insertion Sort.<br>
-Selection Sort.<br>
-Merge Sort.<br>
-Quick Sort.<br>
-
+  - Bubble Sort
+  - Insertion Sort
+  - Selection Sort
+  - Merge Sort
+  - Quick Sort
 
 ### Requisitos de código
 O código de exemplo está em Java ([versão 1.8] (https://java.com/en/download/) ou superior funcionará).
