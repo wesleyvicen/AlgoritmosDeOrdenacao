@@ -1,4 +1,4 @@
-package Ordenacao;
+packagepackage Ordenacao;
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -18,6 +18,7 @@ static Scanner scan = new Scanner(System.in);
 			int n = scan.nextInt();
 			int a[] = new int[n];
 			for (int i = 0; i < n; i++) {
+				System.out.print("Entre com o "+(i+1)+"º Número: ");
 				a[i] = scan.nextInt();
 			}
 			switch (ch) {
